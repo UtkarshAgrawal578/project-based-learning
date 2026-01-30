@@ -6,8 +6,7 @@ about: Report an Issue
 <!--- Provide a general summary of the issue in the Title above -->
 
 
-## Current Behavior
-<!--- If suggesting a change/improvement, explain the difference from current behavior -->
+
 
 ## Possible Solution
 <!--- Not obligatory, but suggest a fix/reason -->
