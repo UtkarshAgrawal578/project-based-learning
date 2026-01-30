@@ -5,8 +5,6 @@ about: Report an Issue
 
 <!--- Provide a general summary of the issue in the Title above -->
 
-## Expected Behavior
-<!--- If you're suggesting a change/improvement, tell us how it should work -->
 
 ## Current Behavior
 <!--- If suggesting a change/improvement, explain the difference from current behavior -->
